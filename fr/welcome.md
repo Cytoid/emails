@@ -1,7 +1,7 @@
 Salut, <username>!
 
-Merci d’avoir crée un compte avec nous. Vous venez de gagner accès à beaucoup de fonctionnalités en ligne et dans le jeu !
+Merci d’avoir crée un compte avec nous. Tu viens de gagner accès à beaucoup de fonctionnalités en ligne et dans le jeu !
 
-Alors que vous êtes là, pourquoi ne pas venir nous retrouver sur Discord à https://discord.gg/cytoid pour des mises à jour exclusives et du support de jeu ?
+Tant que tu es ici, pourquoi ne pas rejoindre notre serveur Discord? Tu recevras des mises à jour exclusives et de l’aide par rapport au jeu. Il se trouve à cette addresse: https://discord.gg/cytoid
 
-De tous les membres de l'équipe, nous espérons que vous apprécierez ce que le jeu peut offrir!
+De la part de toute l'équipe, nous espérons que tu apprécieras ce que le jeu peut offrir!
