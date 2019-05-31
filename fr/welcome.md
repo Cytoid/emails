@@ -1,7 +1,7 @@
-Salut <username>!
+Salut, <username>!
 
-Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
+Merci d’avoir s’inscrit à notre site web. Vous venez de gagner du accès à beaucoup de fonctionnalités en ligne et en jeu !
 
-While you’re at it, why not come and join us over on Discord at https://discord.gg/cytoid for exclusive updates and game support?
+Alors que vous êtes là, pourquoi ne pas venir nous retrouver sur Discord à https://discord.gg/cytoid pour des mises à jour exclusives et du support de jeu ?
 
-From all of us on the team, we hope you enjoy what the game has to offer!
+De tous les membres de l'équipe, nous espérons que vous apprécierez ce que le jeu peut offrir!
