@@ -1,7 +1,7 @@
-Hi, <username>!
+你好 <username>！
 
-Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
+感谢您在小站注册账号。 你已经成功解锁所有在线官卡和游戏功能！
 
-While you’re at it, why not come and join us over on Discord at https://discord.gg/cytoid for exclusive updates and game support?
+在探索3000多在线官卡的同时，为何不来 https://discord.gg/cytoid 加入我们的 Discord群组呢？
 
-From all of us on the team, we hope you enjoy what the game has to offer!
+团队的所有人都希望你享受游戏！
