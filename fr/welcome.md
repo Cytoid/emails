@@ -1,4 +1,4 @@
-Hi, <username>!
+Salut <username>!
 
 Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
 
