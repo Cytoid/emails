@@ -1,7 +1,7 @@
-Hi, <username>!
+สวัสดี! <username>!
 
-Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
+ขอบคุณที่ลงทะเบียนบัญชีผู้ใช้กับเรา ในตอนนี้คุณสามารถเข้าถึงเนื้อหาออนไลน์และฟีเจอร์ในเกมได้แล้ว!
 
-While you’re at it, why not come and join us over on Discord at https://discord.gg/cytoid for exclusive updates and game support?
+แล้วทำไมคุณถึงหยุดอยู่เพียงแค่นั้นล่ะ? ในเมื่อคุณสามารถเข้าร่วมกับเราในดิสคอร์ดเซิฟเวอร์ ( https://discord.gg/cytoid) เพื่อรับข่าวสารสุดพิเศษและรับบริการจากทีมพัฒนาเกมได้
 
-From all of us on the team, we hope you enjoy what the game has to offer!
+พวกเราทุกคนหวังว่าคุณจะได้รับประสบการณ์ความสนุกที่เกมนี้มอบให้กับคุณ!
