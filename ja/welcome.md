@@ -1,7 +1,7 @@
-Hi, <username>!
+こんにちは、失礼します。 <username>!
 
-Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
+このたびはアカウントをご登録いただきありがとうございました。 登録していただいたことで、あなたはオンラインでのゲームプレイや、ゲーム内の様々な機能を使用することができるようになりました。
 
-While you’re at it, why not come and join us over on Discord at https://discord.gg/cytoid for exclusive updates and game support?
+てはこの機会にぜひ、より専門的でそこでしかできないアップデートや、ゲームサポートのために、https://t.co/wCAcwrxPYa からCytoidのDiscordグループに参加しませんか。
 
-From all of us on the team, we hope you enjoy what the game has to offer!
+私たちのチームの全員が、あなたにゲームを楽しんでいただけることを願っています！
