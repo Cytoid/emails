@@ -1,7 +1,7 @@
-Hi, <username>!
+안녕하세요 <name>! <username>!
 
-Thanks for registering an account with us. You’ve just gained access to loads of online and in-game features!
+사이토이드에 성공적으로 가입한 것을 축하드립니다! 이제부터 사이토이드에서 제공되는 여러가지 서비스를 이용할 수 있습니다.
 
-While you’re at it, why not come and join us over on Discord at https://discord.gg/cytoid for exclusive updates and game support?
+사이토이드에 대한 질문 이 있거나 사이토이드 개발과정에 관심이 있으시다면 사이토이드 디스코드 서버에 들어오시길 바랍니다: https://discord.gg/cytoid
 
-From all of us on the team, we hope you enjoy what the game has to offer!
+모두가 게임을 더욱 재미있게 즐길수 있도록 노력하겠습니다. 사이토이드 개발팀 올림
