@@ -1,5 +1,5 @@
 Hi <name>,
 
-Congratulations! You leveled up!
+Congratulations! You levelled up!
 
 Your current level: <level>
