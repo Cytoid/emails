@@ -6,4 +6,4 @@ Silahkan ikuti link berikut untuk mengatur password baru anda:
 
 <resetlink>
 
-Link diatas akan kadaluarsa dalam waktu 24 jam. Please request a new link after that time.
+Link diatas akan kadaluarsa dalam waktu 24 jam. Setelah selang waktu 24 jam, mohon untuk mengajukan link kembali.
