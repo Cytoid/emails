@@ -1,9 +1,9 @@
-Hi <name>,
+Hai, <name>,
 
-You have requested to reset the cytoid.io password for the username "<uid>"
+Anda telah mengajukan permohonan untuk mengembalikan password akun anda dengan username "<uid>"
 
-Follow this link to set a new password:
+Silahkan ikuti link berikut untuk mengatur password baru anda:
 
 <resetlink>
 
-This reset link will EXPIRE after 24 hours. Please request a new link after that time.
+Link diatas akan kadaluarsa dalam waktu 24 jam. Please request a new link after that time.
