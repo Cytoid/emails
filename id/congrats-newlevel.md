@@ -1,5 +1,5 @@
 Hi <name>,
 
-Congratulations! You levelled up!
+Congratulations! Anda naik level!
 
 Your current level: <level>
