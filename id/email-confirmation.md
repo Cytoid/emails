@@ -1,7 +1,7 @@
 Hi <name>,
 
-Thank you for confirming your email.
+Silahkan mengkonfimasi email anda pada tautan di bawah ini.
 
-Please follow the link to continue:
+Link:
 
 <link />
