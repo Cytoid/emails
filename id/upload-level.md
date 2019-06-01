@@ -1,3 +1,3 @@
-Hi <name>,
+Hai <name>,
 
-Thank you for uploading a new level <levelname>
+Terima kasih telah mengupload level baru.<levelname>
