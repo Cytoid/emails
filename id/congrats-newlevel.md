@@ -1,5 +1,5 @@
 Hi <name>,
 
-Congratulations! Anda naik level!
+Selamat! Anda naik level!
 
-Your current level: <level>
+Levelmu saat ini: <level>
