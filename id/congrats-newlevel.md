@@ -1,4 +1,4 @@
-Hi <name>,
+Hai <name>,
 
 Selamat! Anda naik level!
 
